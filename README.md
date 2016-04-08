@@ -99,9 +99,9 @@ To recap,
 
 Finding a job takes time and effort. 
 
-## Next Steps
+## Assignment
 
-**Task:** Write a journal entry that addresses the following: 
+Write a brief entry that addresses the following: 
 
 1. How many hours per day will you be committing to your job search?
 2. What existing soft skills (like communication) do you possess that makes you a valuable candidate? (Give specific examples.) 
@@ -110,6 +110,7 @@ Finding a job takes time and effort.
 
 Committing to the process is important because the best opportunities can take the most work upfront. In the end, you get what you put into it. 
 
+Submit your asignment ....
 
 
 
