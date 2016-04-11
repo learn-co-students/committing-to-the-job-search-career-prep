@@ -1,3 +1,5 @@
+# Committing to the Job Search 
+
 Finding a new career in web development takes time and effort. It involves research, active outreach, tracking progress, building a personal brand, and more.
 
 ## Accept That the Job Search Isn’t Easy
