@@ -99,28 +99,30 @@ To recap,
 
 Finding a job takes time and effort. 
 
-## Assignment
+## Assignment- Committing to the Job Search 
 
-Write a brief entry that addresses the following: 
+Create a new Google Doc. Remember to title it ""Your Name" + Committing to the Job Search" In this document, address the following questions.
 
 1. How many hours per day will you be committing to your job search?
 2. What existing soft skills (like communication) do you possess that makes you a valuable candidate? (Give specific examples.) 
 3. Which proactive job-search activities will you be implementing? 
 4. What makes you a likeable candidate? 
 
+You can copy the above questions, and below each one, enter your answers. 
+
+**Submit** your assignment to careerprep@flatironschool.com. In the subject line, always write your name and the assignment title. In this case, ""Your Name" + Committing to the Job Search"
+
+In the body, include:
+
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url link to this specific google doc 
+
 Committing to the process is important because the best opportunities can take the most work upfront. In the end, you get what you put into it. 
-
-Submit your asignment ....
-
-
-
-
-
-
-
-
-
-
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/committing-to-the-job-search'>Committing to the Job Search </a> on Learn.co and start learning to code for free.</p>
