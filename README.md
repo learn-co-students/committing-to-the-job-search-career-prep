@@ -112,7 +112,9 @@ Create a new Google Doc. Remember to title it ""Your Name" + Committing to the J
 
 You can copy the above questions, and below each one, enter your answers. 
 
-**Submit** your assignment to careerprep@flatironschool.com. In the subject line, always write your name and the assignment title. In this case, ""Your Name" + Committing to the Job Search"
+Email your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web development track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments
+
+In the subject line, always write your name and the assignment title. In this case, ""Your Name" + Committing to the Job Search"
 
 In the body, include:
 
