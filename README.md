@@ -1,6 +1,6 @@
 # Committing to the Job Search 
 
-Finding a new career in web development takes time and effort. It involves research, active outreach, tracking progress, building a personal brand, and more.
+Finding a new career in iOS or web development takes time and effort. It involves research, active outreach, tracking progress, building a personal brand, and more.
 
 ## Accept That the Job Search Isn’t Easy
 
@@ -107,3 +107,5 @@ There is no specific assignment to submit for this lesson. Your coach will addre
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/committing-to-the-job-search'>Committing to the Job Search </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/committing-to-the-job-search'>Committing to the Job Search</a> on Learn.co and start learning to code for free.</p>
