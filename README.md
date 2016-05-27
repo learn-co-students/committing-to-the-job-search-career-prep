@@ -103,30 +103,7 @@ Finding a job takes time and effort.
 
 ## Assignment- Committing to the Job Search 
 
-Create a new Google Doc. Remember to title it ""Your Name" + Committing to the Job Search" In this document, address the following questions.
-
-1. How many hours per day will you be committing to your job search?
-2. What existing soft skills (like communication) do you possess that makes you a valuable candidate? (Give specific examples.) 
-3. Which proactive job-search activities will you be implementing? 
-4. What makes you a likeable candidate? 
-
-You can copy the above questions, and below each one, enter your answers. 
-
-Email your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web development track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments
-
-In the subject line, always write your name and the assignment title. In this case, ""Your Name" + Committing to the Job Search"
-
-In the body, include:
-
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url link to this specific google doc 
-
-Committing to the process is important because the best opportunities can take the most work upfront. In the end, you get what you put into it. 
+There is no specific assignment to submit for this lesson. Your coach will address with you the importance of committing to your job search. Committing to the process is important because the best opportunities can take the most work upfront. In the end, you get what you put into it. 
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/committing-to-the-job-search'>Committing to the Job Search </a> on Learn.co and start learning to code for free.</p>
