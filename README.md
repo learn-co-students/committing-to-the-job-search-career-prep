@@ -100,12 +100,3 @@ To recap,
 * Ultimately it’s your responsibility to land the job -  to do this, you must be proactive
 
 Finding a job takes time and effort. 
-
-## Assignment- Committing to the Job Search 
-
-There is no specific assignment to submit for this lesson. Your coach will address with you the importance of committing to your job search. Committing to the process is important because the best opportunities can take the most work upfront. In the end, you get what you put into it. 
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/committing-to-the-job-search'>Committing to the Job Search </a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/committing-to-the-job-search'>Committing to the Job Search</a> on Learn.co and start learning to code for free.</p>
