@@ -1,4 +1,4 @@
-# Committing to the Job Search 
+# Building a Strong Job Search Foundation
 
 Finding a new career in iOS or web development takes time and effort. It involves research, active outreach, tracking progress, building a personal brand, and more.
 
